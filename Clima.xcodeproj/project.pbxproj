@@ -71,8 +71,8 @@
 				ADAA27B9231BBFB300365194 /* Assets.xcassets */,
 				ADAA27BB231BBFB300365194 /* LaunchScreen.storyboard */,
 				ADAA27BE231BBFB300365194 /* Info.plist */,
-				ADAA27C5231BC02B00365194 /* dark_background.pdf */,
 				ADAA27C4231BC02B00365194 /* light_background.pdf */,
+				ADAA27C5231BC02B00365194 /* dark_background.pdf */,
 			);
 			path = Clima;
 			sourceTree = "<group>";
@@ -97,7 +97,7 @@
 			isa = PBXGroup;
 			children = (
 			);
-			path = Model;
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
